@@ -1,4 +1,4 @@
-## React Flux App[https://db.tt/I7ihnu7x]
+## React Flux App - [Demo](https://db.tt/I7ihnu7x)
 
 This app requires node.js!
 
