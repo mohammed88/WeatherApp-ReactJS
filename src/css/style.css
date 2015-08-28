@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#main {
+  height: 100%;
+  width: 100%;
+}
+
+.weather {
+  position: absolute;
+  top: 0;
+  background-color: white;
+  width: 50px;
+  padding: 10px;
+  border: 1px solid;
+  width: 270px;
+  margin-left: calc(50% - 135px);
+  margin-top: 10px;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 10px
+}
+
+.date {
+  font-weight: bold;
+}
